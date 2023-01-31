@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[9325],{87098:s=>{s.exports=JSON.parse('{"allTagsPath":"/zh/blog/tags","slug":"/zh/blog/tags/case-studies","name":"Case Studies","count":22,"permalink":"/zh/blog/tags/case-studies"}')}}]);
